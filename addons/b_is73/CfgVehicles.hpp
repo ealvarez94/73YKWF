@@ -194,7 +194,7 @@ class CfgVehicles {
 
 
     class B_IS73_Rifleman_01 : B_G_Soldier_F_OCimport_02 {
-        editorPreview = \x\yomkippur73\addons\b_is73\data\preview\B_IS73_Rifleman_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Rifleman_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -233,7 +233,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Grenadier_01 : B_IS73_Rifleman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Grenadier_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Grenadier_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -272,7 +272,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Autorifleman_01 : B_G_Soldier_AR_F_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Autorifleman_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Autorifleman_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -313,7 +313,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Medic_01 : B_G_medic_F_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Medic_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Medic_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -354,7 +354,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Rifleman_AT_01 : B_G_Soldier_LAT_F_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Rifleman_AT_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Rifleman_AT_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -395,7 +395,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Marksman_01 : B_G_Soldier_M_F_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Marksman_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Marksman_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -434,7 +434,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Squad_Leader_01 : B_G_Soldier_SL_F_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Squad_Leader_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Squad_Leader_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -473,7 +473,7 @@ class CfgVehicles {
     };
 
     class B_IS73_RTO_01 : B_IS73_Rifleman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_RTO_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_RTO_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -514,7 +514,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Officer_01 : B_G_officer_F_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Officer_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Officer_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -553,7 +553,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Lieutenant_01 : B_IS73_Officer_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Lieutenant_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Lieutenant_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -592,7 +592,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Machine_Gunner_01 : B_IS73_Autorifleman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Machine_Gunner_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Machine_Gunner_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -633,7 +633,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Paratrooper_01 : B_IS73_Rifleman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Paratrooper_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Paratrooper_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -672,7 +672,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Paratrooper_Grenadier_01 : B_IS73_Grenadier_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Paratrooper_Grenadier_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Paratrooper_Grenadier_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -711,7 +711,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Paratrooper_Autorifleman_01 : B_IS73_Autorifleman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Paratrooper_Autorifleman_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Paratrooper_Autorifleman_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -752,7 +752,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Paratrooper_Medic_01 : B_IS73_Medic_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Paratrooper_Medic_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Paratrooper_Medic_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -793,7 +793,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Paratrooper_AT_01 : B_IS73_Rifleman_AT_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Paratrooper_AT_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Paratrooper_AT_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -834,7 +834,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Paratrooper_Marksman_01 : B_IS73_Marksman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Paratrooper_Marksman_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Paratrooper_Marksman_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -873,7 +873,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Paratrooper_Leader_01 : B_IS73_Squad_Leader_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Paratrooper_Leader_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Paratrooper_Leader_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -912,7 +912,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Crew_01 : B_IS73_Rifleman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Crew_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Crew_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -951,7 +951,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Helicopter_Pilot_01 : B_IS73_Crew_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Helicopter_Pilot_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Helicopter_Pilot_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -990,7 +990,7 @@ class CfgVehicles {
     };
 
     class B_IS73_M113_01 : cwr3_b_m113a1_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_M113_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_M113_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1024,7 +1024,7 @@ class CfgVehicles {
     };
 
     class B_IS73_M113_MEV_01 : cwr3_b_m113a1_mev_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_M113_MEV_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_M113_MEV_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1055,7 +1055,7 @@ class CfgVehicles {
     };
 
     class B_IS73_M577_CP_01 : cwr3_b_m577_hq_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_M577_CP_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_M577_CP_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1081,7 +1081,7 @@ class CfgVehicles {
     };
 
     class B_IS73_M939_01 : cwr3_b_m939_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_M939_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_M939_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1107,7 +1107,7 @@ class CfgVehicles {
     };
 
     class B_IS73_M151_01 : cwr3_b_m151_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_M151_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_M151_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1133,7 +1133,7 @@ class CfgVehicles {
     };
 
     class B_IS73_M151_Armed_01 : cwr3_b_m151_m2_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_M151_Armed_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_M151_Armed_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1165,7 +1165,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Ammo_Truck_01 : cwr3_b_m939_reammo_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Ammo_Truck_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Ammo_Truck_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1191,7 +1191,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Fuel_Truck_01 : cwr3_b_m939_refuel_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Fuel_Truck_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Fuel_Truck_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1217,7 +1217,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Repair_Truck_01 : cwr3_b_m939_repair_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Repair_Truck_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Repair_Truck_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1243,7 +1243,7 @@ class CfgVehicles {
     };
 
     class B_IS73_UH_1_01 : CUP_I_UH1H_RACS_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_UH_1_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_UH_1_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1278,7 +1278,7 @@ class CfgVehicles {
     };
 
     class B_IS73_CH_47_01 : cwr3_b_ch47_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_CH_47_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_CH_47_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1312,7 +1312,7 @@ class CfgVehicles {
     };
 
     class B_IS73_155mm_Howitzer_01 : cwr3_b_m119_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_155mm_Howitzer_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_155mm_Howitzer_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1342,7 +1342,7 @@ class CfgVehicles {
     };
 
     class B_IS73_81mm_Mortar_01 : cwr3_b_m252_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_81mm_Mortar_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_81mm_Mortar_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1372,7 +1372,7 @@ class CfgVehicles {
     };
 
     class B_IS73_M2_50_01 : cwr3_b_m2hb_high_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_M2_50_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_M2_50_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1402,7 +1402,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Mortar_Gunner_01 : B_IS73_Rifleman_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Mortar_Gunner_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Mortar_Gunner_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1443,7 +1443,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Mortar_Assistant_01 : B_IS73_Mortar_Gunner_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Mortar_Assistant_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Mortar_Assistant_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1484,7 +1484,7 @@ class CfgVehicles {
     };
 
     class B_IS73_MG_Gunner_01 : B_IS73_Mortar_Gunner_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_MG_Gunner_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_MG_Gunner_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1525,7 +1525,7 @@ class CfgVehicles {
     };
 
     class B_IS73_MG_Assistant_01 : B_IS73_MG_Gunner_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_MG_Assistant_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_MG_Assistant_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1566,7 +1566,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Magach_5_01 : cwr3_i_m41a1_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Magach_5_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Magach_5_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1597,7 +1597,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Magach_6_01 : cwr3_b_m60a3_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Magach_6_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Magach_6_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1634,7 +1634,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Patrol_Boat_01 : cwr3_b_boat_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Patrol_Boat_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Patrol_Boat_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1664,7 +1664,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Zu_23_01 : B_Tura_ZU23_lxWS_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Zu_23_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Zu_23_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1695,7 +1695,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Pilot_01 : B_IS73_Helicopter_Pilot_01 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_Pilot_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_Pilot_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -1734,7 +1734,7 @@ class CfgVehicles {
     };
 
     class B_IS73_F4_01 : cwr3_b_f4e_OCimport_02 {
-        editorPreview = \x\YomKippur73\addons\b_is73\data\preview\B_IS73_F4_01.jpg;
+        editorPreview = \x\73ykwf\addons\b_is73\data\preview\B_IS73_F4_01.jpg;
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
