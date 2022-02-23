@@ -1,2 +1,0 @@
-// Copy this part to ALiVE logistics static data
-[ALIVE_factionDefaultSupplies, "B_IS73", ["B_IS73_AmmoBox","B_IS73_WeaponsBox","B_IS73_LaunchersBox","B_IS73_UniformBox","B_IS73_SupportBox","B_IS73_SupplyBox"]] call ALIVE_fnc_hashSet;
