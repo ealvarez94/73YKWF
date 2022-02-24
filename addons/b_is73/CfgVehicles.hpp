@@ -4,6 +4,10 @@
 
 class CBA_Extended_EventHandlers_base;
 
+class CfgEditorSubCategories {
+    class idf_para  { displayName = "Paratroopers"; };
+};
+
 class CfgVehicles {
 
     class B_G_Soldier_F;
@@ -640,6 +644,7 @@ class CfgVehicles {
         displayName = "Paratrooper";
         side = 1;
         faction = "B_IS73";
+        editorSubCategory = "idf_para";
 
         identityTypes[] = {"Head_Greek","LanguageGRE_F","G_GUERIL_default"};
 
@@ -679,6 +684,7 @@ class CfgVehicles {
         displayName = "Paratrooper Grenadier";
         side = 1;
         faction = "B_IS73";
+        editorSubCategory = "idf_para";
 
         identityTypes[] = {"Head_Greek","LanguageGRE_F","G_GUERIL_default"};
 
@@ -718,6 +724,7 @@ class CfgVehicles {
         displayName = "Paratrooper Autorifleman";
         side = 1;
         faction = "B_IS73";
+        editorSubCategory = "idf_para";
 
         identityTypes[] = {"Head_Greek","LanguageGRE_F","G_GUERIL_default"};
 
@@ -759,6 +766,7 @@ class CfgVehicles {
         displayName = "Paratrooper Medic";
         side = 1;
         faction = "B_IS73";
+        editorSubCategory = "idf_para";
 
         identityTypes[] = {"Head_Greek","LanguageGRE_F","G_GUERIL_default"};
 
@@ -800,6 +808,7 @@ class CfgVehicles {
         displayName = "Paratrooper (AT)";
         side = 1;
         faction = "B_IS73";
+        editorSubCategory = "idf_para";
 
         identityTypes[] = {"Head_Greek","LanguageGRE_F","G_GUERIL_default"};
 
@@ -841,6 +850,7 @@ class CfgVehicles {
         displayName = "Paratrooper Marksman";
         side = 1;
         faction = "B_IS73";
+        editorSubCategory = "idf_para";
 
         identityTypes[] = {"Head_Greek","LanguageGRE_F","G_GUERIL_default"};
 
@@ -880,6 +890,7 @@ class CfgVehicles {
         displayName = "Paratrooper Leader";
         side = 1;
         faction = "B_IS73";
+        editorSubCategory = "idf_para";
 
         identityTypes[] = {"Head_Greek","LanguageGRE_F","G_GUERIL_default"};
 
