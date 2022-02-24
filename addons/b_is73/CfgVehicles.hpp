@@ -395,7 +395,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Marksman_01 : B_G_Soldier_M_F_OCimport_02 {
-        editorPreview = "\x\73ykwf\addons\"b_is73\data\preview\B_IS73_Marksman_01.jpg";
+        editorPreview = "b_is73\data\preview\B_IS73_Marksman_01.jpg";
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
@@ -434,7 +434,7 @@ class CfgVehicles {
     };
 
     class B_IS73_Squad_Leader_01 : B_G_Soldier_SL_F_OCimport_02 {
-        editorPreview = "\x\73ykwf\addons\"b_is73\data\preview\B_IS73_Squad_Leader_01.jpg";
+        editorPreview = "b_is73\data\preview\B_IS73_Squad_Leader_01.jpg";
         author = "Enol";
         scope = 2;
         scopeCurator = 2;
